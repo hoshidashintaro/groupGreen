@@ -1,3 +1,3 @@
 # groupGreen
 ## develop
-## hoshidashintaro
+## hoshidashintaro修正しました
